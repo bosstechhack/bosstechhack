@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **bosstechhack/bosstechhack** 
 
 - 🔭 Currently building full-stack MERN applications and exploring Django.
@@ -12,4 +12,4 @@
 - ⚡ Fun fact: I enjoy turning complex problems into elegant solutions.
 -->
 
--->
+
