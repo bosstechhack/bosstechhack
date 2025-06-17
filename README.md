@@ -35,7 +35,7 @@
 
 - **[pymtrica](#)**: Contributed to a Python library focused on metrics and analytics.
 - **[Farmmitra](#)**: MERN stack web application to support farmers and agriculture.
-- **[Shopping WebApp](#)**: E-commerce app built with Flask and Python.
+- **[ShopSphere](#)**: E-commerce app built with Flask and Python.
 
 ---
 
